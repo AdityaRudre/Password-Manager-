@@ -5,7 +5,7 @@
 
 ## Overview
 
-A simple and secure password manager created in Python. This lightweight application allows you to store and retrieve your passwords conveniently. The passwords are stored in a JSON file, ensuring easy access and backup.
+A simple and secure password manager created in Python using tkinter GUI toolkit. This lightweight application allows you to store and retrieve your passwords conveniently. The passwords are stored in a JSON file, ensuring easy access and backup.
 
 ## Features
 
